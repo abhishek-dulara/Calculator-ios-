@@ -21,7 +21,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    height: 100vh;
     background-color: hsl(0, 0%, 95%);
 }
 
@@ -41,6 +41,7 @@ p {
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
+
 }
 
 #display {
